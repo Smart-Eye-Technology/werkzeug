@@ -1,3 +1,8 @@
+# What is this?
+Werkzeug is used by the Flask application in [https://github.com/Smart-Eye-Technology/Python-Docker-FaceSDK](https://github.com/Smart-Eye-Technology/Python-Docker-FaceSDK). As a specific version was used, it was forked here for safe keeping inside the Smart Eye Technology org.
+
+Original documentation follows:
+
 Werkzeug
 ========
 
